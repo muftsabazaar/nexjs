@@ -12,44 +12,6 @@ export default function Home() {
       </Head>
         
         <article className="main-article post-520 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to tag-export-mysql-database-table-to-excel-file tag-mysql-table-to-excel-in-php tag-mysql-to-excel">
-
-
-        <header>
-
-            <div className="post-format-image post-format-wrapper ">
-                <div className="featured-image">
-                    <div className="tags absolute"><a href="https://muftsabazaar.com/blog/category/?c=GEM (Government E Marketplace)" className="tag-link-40">GEM (Government E Marketplace)</a></div>
-                </div>
-            </div>
-
-            <div className="meta">
-
-           <div className="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
-               <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://muftsabazaar.com/"><span itemprop="name">Home</span></a> »  <meta itemprop="position" content="1" /></span>
-               <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://muftsabazaar.com/blog/"><span itemprop="name">Blog</span></a> » <meta itemprop="position" content="2" /></span>
-               <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://muftsabazaar.com/blog/category/?c=GEM+(Government+E+Marketplace)"><span itemprop="name">GEM (Government E Marketplace)</span></a> » <meta itemprop="position" content="3" /></span>
-               <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://muftsabazaar.com/blog/post/how-can-i-get-vendor-assessment-exemption-for-free-vendor-assessment-exemption-free"> <span itemprop="name">How Can I Get Vendor Assessment Exemption for Free | Vendor Assessment Exemption Free</span></a><meta itemprop="position" content="4" /></span>
-                       </div>
-                <time className="meta-info" datetime="2021-04-09"><i className="remixicon remixicon-calendar-line"></i> April 09, 2021</time>
-
-                <span className="views-counter meta-info" title="Views">
-                    <i className="remixicon remixicon-fire-line"></i> 369 </span>
-
-                <a href="#comments" className="comments tooltip" title="Go to comments">
-                    <i className="remixicon remixicon-chat-1-line fa-flip-horizontal"></i>
-                    <span className="comment-count"></span>
-                
-                </a>
-
-                <div className="clear"></div>
-
-                <h1 className="title no-thumb large bold">How Can I Get Vendor Assessment Exemption for Free | Vendor Assessment Exemption Free</h1>
-            </div>
-     
-
-            <div className="clear"></div>
-
-        </header>
         <section className="post-content">
 
 
